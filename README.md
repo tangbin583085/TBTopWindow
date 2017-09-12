@@ -1,3 +1,3 @@
 # TBTopWindow
-    在开发中，有些子控件超出了部分父控件的区域，导致子控件超出的区域处于不可点状态。
-![image](http://upload-images.jianshu.io/upload_images/7078206-e435a2074c0f0d0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+        
+从iOS10开始，苹果官方添加点击状态栏，让UIScrollView回滚到顶部，但是iOS9之前的版本需要程序员写代码实现该功能。
